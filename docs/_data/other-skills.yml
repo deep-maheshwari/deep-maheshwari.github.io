@@ -1,0 +1,7 @@
+- name: Django
+  percentage: 75
+  color: info
+
+- name: Node Js
+  percentage: 70
+  color: success
