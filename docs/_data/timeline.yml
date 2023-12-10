@@ -1,14 +1,21 @@
-- title: Student, Indian Institute of Technology Tirupati
-  from: 2018
-  to: 2022
-  description: I studied in Department of Computer Science and Engineering, majoring in Computer Science. I had taken some 
-                important courses that helped me gain better understanding of computer science in various ways. Some of the courses are DBMS(Database Management Systems),
-                Intelligent Systems Lab(AI/ML laboratory), Operating systems and not to forget one of most interesting Computer Architecture.
-
 - title: Software Engineer, Alation, India
   from: 2022
   to: present
   description: I started working as a backend engineer and have been experienced with few important
                languages and frameworks. Here I work in Open Connector Framework, data-pipeline-services. I use mainly Golang, 
                Python(Django) at my work. I have learnt a lot about cloud stack due to lift and ship of our services to cloud.
-               
+
+- title: Undergraduate Student, Indian Institute of Technology Tirupati
+  from: 2018
+  to: 2022
+  description: In the Department of Computer Science and Engineering, I specialized in Computer Science during my college tenure. Key courses, including DBMS (Database Management Systems), 
+              the AI/ML-focused Intelligent Systems Lab, Operating Systems, and the intriguing Computer Architecture, played a pivotal role in enhancing my understanding of the field. 
+              These diverse subjects collectively fueled my passion for the dynamic and ever-evolving realm of computer science. 
+
+- title: High School Student, Disha Delphi Public School
+  from: 2018
+  to: 2016
+  description: Entering the competitive world of JEE Advanced prep in high school, I found solace in the captivating intricacies of Physics, 
+                particularly Atomic Physics and Electrodynamics. Despite my initial aversion to chemistry, an engaging organic chemistry professor 
+                sparked my curiosity in the mesmerizing dance of chemical molecules. This phase laid the foundation for my academic journey, fueling a genuine passion for the sciences.
+              

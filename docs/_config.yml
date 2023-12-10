@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Deep Maheshwari
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Be Curious Not Judgemental
 baseurl             : ""                 
 repository          : deep-maheshwari/deep-maheshwari.github.io     
 remote_theme        : YoussefRaafatNasry/portfolYOU
